@@ -1,0 +1,4 @@
+OPENAI_API_KEY=<open ai api key here>
+GROQ_API_KEY=<groq ai api key here>
+GEMINI_API_KEY=<gemini api key here>
+MEM0_API_KEY=<mem0 api key here>
